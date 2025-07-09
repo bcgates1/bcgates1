@@ -1,85 +1,67 @@
+<h1 align="center">Hi 👋, I'm Bharath Chandran</h1>
+<h3 align="center">Flutter Developer | Web Designer | Self Learner</h3>
 
+<p align="center">
+  <a href="https://github.com/bcgates1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=I+build+beautiful+Flutter+apps.;I+design+modern+web+UIs.;I+love+learning+new+tech." alt="Typing SVG" />
+  </a>
+</p>
 
+---
 
-###
+## 📖 About Me
 
+- 💻 Currently building apps with **Flutter**
+- 🧑‍💻 Passionate **Self Learner**
+- 🎯 Open for **freelancing opportunities**
+- 🌐 [**Visit my Portfolio**](https://bcgates1.github.io/personal_website/)
 
+---
 
-<h1 align="center"><b>Hi , I'm Bharath Chandran </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-###
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=950&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://bcgates1.github.io/personal_website/" target="_blank">Visit</a></p>
-
-
-###
-
-<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    I code with</h2>
-
-###
-
-
-
-<br clear="both">
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" width="110" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" width="110" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="110" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" width="110" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="110" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="65" width="110" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" width="110" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=c,java,html,bootstrap,js,dart,flutter" alt="tech stack" />
 </div>
 
-###
+---
 
-<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github</h2>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=bcgates1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=bcgates1" height="150" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bcgates1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcgates1&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="375"/>
 </div>
 
-###
+---
 
-<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Connect with me</h2>
-
-###
-
-<br clear="both">
+## 🔥 Streak Stats
 
 <div align="center">
-  <a href="mailto: bcemailid@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
+  <img src="https://streak-stats.demolab.com?user=bcgates1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:bcemailid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/bharathchandran.007/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/bharath-chandran-674522282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bharath-chandran-674522282/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/bharathchandran.007/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="http://wa.me/918281605869" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="40" alt="whatsapp logo"  />
+  <a href="http://wa.me/918281605869">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/Right_Side.gif"  />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </div>
-
-###
